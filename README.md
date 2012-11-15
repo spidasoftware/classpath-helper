@@ -1,4 +1,19 @@
-classpath-helper
-================
+GRAILS CLASSPATH TOOL
+=====================
 
-A script to help run a suite of checks on wars and wars made by grails
+This is a set of scripts with an interface that helps us diagnose the most painfull issues we have with Grails... classpath issues.
+
+Dependencies
+------------
+groovy
+ruby
+*nix
+
+We use the tool rjar (https://code.google.com/p/rjar/) thanks for writing that.
+
+Usage
+-----
+
+    ./classpath
+
+Follow prompts
